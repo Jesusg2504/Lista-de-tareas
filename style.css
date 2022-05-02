@@ -1,0 +1,23 @@
+body{
+    background-color: lightgrey;
+    color: blue;
+    
+}
+.estilodediv1{
+    color: cadetblue;
+    margin-bottom: 5px;
+    align-items: center;
+    border: 50%;
+}
+.estilodediv2{
+    color: cornflowerblue;
+}
+.estilodediv3{
+    color: brown;
+}
+h3{
+    color: orangered;
+}
+ul{
+    color: darkslategrey;
+}
